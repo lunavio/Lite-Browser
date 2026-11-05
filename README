@@ -1,0 +1,80 @@
+# Lite Browser
+
+**A lightweight browser built for low-end devices.**
+
+Lite Browser là một dự án trình duyệt web nhỏ do tôi tự phát triển với sự hỗ trợ của AI. Dự án bắt đầu từ nhu cầu cá nhân: xây dựng một trình duyệt nhẹ, tối ưu cho các thiết bị có cấu hình thấp, chỉ tập trung vào những chức năng cơ bản và thực sự cần thiết.
+
+Thay vì hướng đến một trình duyệt quá phức tạp với hàng loạt tính năng không cần thiết, Lite Browser ưu tiên ba yếu tố chính:
+
+**Hiệu năng · Tối ưu · Bảo mật**
+
+Dự án được phát triển ban đầu cho nhu cầu sử dụng riêng của tôi, nhưng tôi quyết định chia sẻ mã nguồn để những người có cùng nhu cầu có thể sử dụng, nghiên cứu và cùng đóng góp phát triển.
+
+---
+
+## Project Goals
+
+Lite Browser được xây dựng với những mục tiêu sau:
+
+- **Lightweight:** Hạn chế tiêu thụ tài nguyên hệ thống, hướng đến các thiết bị có cấu hình thấp.
+- **Performance:** Tối ưu tốc độ và trải nghiệm sử dụng.
+- **Security:** Ưu tiên các nguyên tắc bảo mật và an toàn khi duyệt web.
+- **Simplicity:** Giữ lại những chức năng cơ bản, cần thiết và tránh sự phức tạp không cần thiết.
+- **Community-driven:** Mở rộng dự án thông qua sự đóng góp và ý tưởng từ cộng đồng.
+
+## Philosophy
+
+Tôi tin rằng một trình duyệt tốt không nhất thiết phải có thật nhiều tính năng.
+
+Đối với những thiết bị có tài nguyên hạn chế, sự gọn nhẹ, ổn định và trải nghiệm sử dụng mới là những yếu tố đáng quan tâm.
+
+Lite Browser không hướng đến việc trở thành một sản phẩm thay thế hoàn toàn các trình duyệt lớn. Đây là một dự án nhỏ, được phát triển từ nhu cầu thực tế và mong muốn thử nghiệm một hướng tiếp cận tối giản hơn.
+
+## Development
+
+Lite Browser là dự án cá nhân có sử dụng AI hỗ trợ trong quá trình phát triển.
+
+AI được sử dụng như một công cụ hỗ trợ nghiên cứu, đề xuất giải pháp và phát triển mã nguồn. Việc kiểm tra, đánh giá và định hướng dự án vẫn là một phần trong quá trình phát triển của tác giả.
+
+Dự án vẫn đang trong quá trình hoàn thiện. Các tính năng, kiến trúc và định hướng kỹ thuật có thể thay đổi theo thời gian.
+
+## Contributing
+
+Mặc dù Lite Browser bắt đầu từ nhu cầu cá nhân, tôi hoan nghênh sự quan tâm và đóng góp từ cộng đồng.
+
+Bạn có thể tham gia bằng cách:
+
+- Đề xuất tính năng mới.
+- Báo cáo lỗi và vấn đề bảo mật.
+- Đề xuất cải thiện hiệu năng.
+- Cải thiện mã nguồn và tài liệu.
+- Chia sẻ ý tưởng và kinh nghiệm phát triển.
+
+Mọi đóng góp đều đáng trân trọng. Vui lòng đọc `CONTRIBUTING.md` trước khi gửi Pull Request.
+
+## Security
+
+Bảo mật là một trong những định hướng quan trọng của Lite Browser.
+
+Nếu phát hiện vấn đề bảo mật, vui lòng liên hệ trực tiếp với tác giả thay vì công khai chi tiết lỗ hổng trước khi có phương án xử lý.
+
+Lite Browser đang được phát triển và chưa đưa ra cam kết về mức độ an toàn tuyệt đối. Người dùng nên cân nhắc điều này khi sử dụng.
+
+## License
+
+Lite Browser hướng tới mô hình phân phối mã nguồn công khai, cho phép sử dụng và phát triển vì mục đích phi thương mại.
+
+Việc sử dụng thương mại cần có sự cho phép của chủ sở hữu bản quyền.
+
+Vui lòng đọc file `LICENSE` trong repository để biết đầy đủ các điều khoản và quyền sử dụng.
+
+**Original Author:** Lite Browser Project Creator
+
+## Contact
+
+Mọi câu hỏi, đề xuất hoặc đóng góp cho dự án đều được hoan nghênh.
+
+- **Email:** meodimua111@gmail.com
+- **Discord:** @fie_cantlove
+
+---
